@@ -1,4 +1,14 @@
-# ¡Hola 👋, soy Daniela Suarez!
+<!-- Encabezado animado -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=C77DFF&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Daniela+Suarez!;Bienvenid%40+a+mi+perfil+de+GitHub!" alt="Typing SVG" />
+  </a>
+  <div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+</div>
+</p>
+
+---
 
 🎓 **Ingeniera de Sistemas e Informática**  
 📍 Universidad Tecnológica del Perú
@@ -10,7 +20,8 @@
 - 😺 Amante de los gatos  
 - 🎧 Escuchar música es mi hobby  
 - 💡 Apasionada por la tecnología y el aprendizaje continuo  
-- 🚀 Me encanta desarrollar soluciones con impacto  
+- 🚀 Me encanta desarrollar soluciones con impacto
+- 🎮 Me encantan los videojuegos  
 
 ---
 
@@ -48,6 +59,7 @@
   <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
   <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+  <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
 </p>
 
 ---
@@ -65,6 +77,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleinadsf&layout=compact&theme=tokyonight)
 
 ---
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
-</div>
