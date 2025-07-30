@@ -1,11 +1,10 @@
 <!-- Encabezado animado -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=C77DFF&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Daniela+Suarez!;Bienvenid%40+a+mi+perfil+de+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=C77DFF&center=true&vCenter=true&width=1000&lines=👋+Hola%2C+soy+Daniela+Suarez!;Bienvenid%40+a+mi+perfil+de+GitHub!" alt="Typing SVG" />
   </a>
-  <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
-</div>
+  <br>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
 </p>
 
 ---
@@ -72,8 +71,14 @@
 
 ## 📊 Mis estadísticas de GitHub
 
-![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleinadsf&theme=tokyonight&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aleinadsf&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleinadsf&layout=compact&theme=tokyonight)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aleinadsf&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aleinadsf&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleinadsf&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=Aleinadsf&theme=tokyonight&row=1&column=4" />
+</p>
 
 ---
