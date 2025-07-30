@@ -71,14 +71,24 @@
 
 ## 📊 Mis estadísticas de GitHub
 
-<p align="center">
+### 💻 Estadísticas generales
+<p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aleinadsf&show_icons=true&theme=tokyonight" />
+</p>
+
+### 🔥 Racha de contribuciones
+<p>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aleinadsf&theme=tokyonight"/>
 </p>
 
-<p align="center">
+### 🧠 Lenguajes más usados
+<p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleinadsf&layout=compact&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=Aleinadsf&theme=tokyonight&row=1&column=4" />
+</p>
+
+### 🏆 Trofeos de GitHub
+<p>
+  <img width="60%" src="https://github-profile-trophy.vercel.app/?username=Aleinadsf&theme=tokyonight&row=1&column=4" />
 </p>
 
 ---
